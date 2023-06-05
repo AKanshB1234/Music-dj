@@ -1,0 +1,27 @@
+#h3{
+    width: 100%;
+    font-size:25px;
+}
+#spa{
+    font-size:15px;
+}
+body{
+    background-image: url("background.jpg");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#vol{
+    float:left;
+
+}
+#spe{
+    float:right;
+}
+.i{
+    height:200px;
+    width:200px;
+}
+#main{
+    text-align: center;
+}
